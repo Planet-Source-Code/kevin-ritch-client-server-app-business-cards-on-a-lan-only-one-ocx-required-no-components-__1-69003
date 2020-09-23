@@ -1,0 +1,7 @@
+Don't forget to Compile and run the server FIRST
+
+Then COPY the IP ADDRESS into the source of the client!
+
+Then COMPILE THE CLIENT
+
+Then RUN THE CLIENT ON ANY PC ON THE LAN
